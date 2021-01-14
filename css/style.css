@@ -1,0 +1,49 @@
+
+.pink{
+    background: #FFF9F4;
+}
+ul li {
+    padding-right: 2rem;
+}
+ul li a{
+    color: black !important;
+    font-weight: 500;
+}
+.logo{
+    width: 200px;
+}
+head{
+    border: 1px solid red;
+}
+.orange{
+    color: #FA804C;
+}
+.blue{
+    background:#3847CD;
+}
+.fab{
+    
+margin-right: .3rem;
+}
+
+/* @media (max-width:361px){
+    .logo{
+        width: 150px;
+    }
+}
+@media (max-width:312px){
+    .logo{
+        width: 100px;
+    }
+} */
+
+
+i:hover{
+    cursor: pointer;
+    color: blue;
+
+}
+
+footer{
+    background-color: rgb(201, 201, 201);
+}
