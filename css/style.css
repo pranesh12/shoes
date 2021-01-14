@@ -18,6 +18,9 @@ head{
 .orange{
     color: #FA804C;
 }
+.orange2 {
+    background-color: rgba(255, 68, 0, 0.87);
+}
 .blue{
     background:#3847CD;
 }
@@ -44,6 +47,3 @@ i:hover{
 
 }
 
-footer{
-    background-color: rgb(201, 201, 201);
-}
